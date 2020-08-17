@@ -1,6 +1,12 @@
 LabelImg
 ========
 
+This one has a modified lavelImg.py file. fork of labelImg repo. 
+Updated to automatically save files with "_annotations" at the end (currently used for object detector project).
+It is performed to not override the orininal .xml file. 
+
+
+
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
 
